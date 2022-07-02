@@ -1,4 +1,4 @@
-[![MasterHead](https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif)!]
+
 <h1 align="center">Hi 👋, I'm Tusdang</h1>
 <h3 align="center">A passionate frontend developer from Asisa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif">
