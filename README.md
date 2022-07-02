@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif)!]
+[![MasterHead](https://38.media.tumblr.com/440a34dda29466e0d2896ba982b8e8b6/tumblr_ngy9vsbJna1qav3uso1_500.gif)!]
 <h1 align="center">Hi 👋, I'm Tusdang</h1>
 <h3 align="center">A passionate frontend developer from Asisa</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/132194/screenshots/3143314/codingdribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusdang&label=Profile%20views&color=0e75b6&style=flat" alt="tusdang" /> </p>
 
